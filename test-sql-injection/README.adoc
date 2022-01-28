@@ -1,0 +1,11 @@
+= SQL Injection test in Java
+
+image:https://travis-ci.org/ghusta/test-sql-injection-java.svg?branch=master["Build Status", link="https://travis-ci.org/ghusta/test-sql-injection-java"]
+
+Testing SQL injection in Java.
+
+== References
+
+* https://www.owasp.org/index.php/SQL_Injection[SQL Injection] (OWASP)
+* https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/SQL_Injection_Prevention_Cheat_Sheet.md[SQL_Injection_Prevention_Cheat_Sheet]
+* https://rules.sonarsource.com/java/RSPEC-3649[SQL queries should not be vulnerable to injection attacks] (Sonar rule)

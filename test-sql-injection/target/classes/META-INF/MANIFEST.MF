@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: bahamed
+Build-Jdk: 17.0.1
+Implementation-Title: test-sql-injection-java
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: fr.husta.test
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/test-sql-injection-java
+Created-By: Maven Integration for Eclipse
+
